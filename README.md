@@ -18,6 +18,6 @@ Simply pass a _console.log()_ method immediately after your _render()_ and inclu
        }
        
 The project uses the props to access the url.
-The inputs of the form are pushed into the url using _this.props.history.params to display a new page with details of the inputs.
+The inputs of the form are pushed into the url using _this.props.history.params_ to display a new page with details of the inputs.
        
 _This is a great way to learn how to work with react-router-dom and to utilize props on the console._
